@@ -8,6 +8,7 @@ La tienda de ejemplo con Prestashop contiene una plantilla con algunos productos
 ### Requisitos para una instalación local.
 - Tener **PHP 7.4** instalado, como mínimo, en caso de no cumplir con este requerimiento, nosotros sugerimos su actualización a esta versión a través de brew; un instalador de paquetes para macOS que puedes encontrar [aquí](https://brew.sh/index_es).
 - **MAMP**.- Un servidor para alojar la página web, puedes encontrarlo [aquí](https://www.mamp.info/en/mac/), pero también puede utilizar otro servidor de su preferencia.
+- **Git**.- Este manejador de versiones, debe estar instalado en tu equipo de computo. 
 
 ## Instalación
 
@@ -17,17 +18,20 @@ Para la correcta configuración debe ingresar en el menú Preferencias y luego c
 
 <img width="523" alt="mamp-ports" src="https://user-images.githubusercontent.com/88348069/129621869-3e8847f9-daa2-4eb6-bb70-3ef65d01e8cd.png">
 
-El siguiente paso es configurar la carpeta raíz del documento. Esta será la carpeta donde creará y almacenará sus sitios web. De forma predeterminada, MAMP usa la carpeta / Aplicaciones / MAMP / htdocs, pero puede cambiarla a una ubicación más accesible.
+El siguiente paso es configurar la carpeta raíz del documento. Esta será la carpeta donde creará y almacenará sus sitios web. De forma predeterminada, MAMP usa la carpeta **Aplicaciones/ MAMP/ htdocs**, pero puede cambiarla a una ubicación más accesible.
 
 Para terminar con la configuración de MAMP solo hay que presionar el botón **start** del servidor. Al hacerlo se abrirá la página de inicio de MAMP (http://localhost/MAMP/?language=English)
 
 ### 2. Clonar el repositorio
 
-Para que se pueda acceder a la tienda, la carpeta del proyecto que se descargó, **prestashop-store**, deberá ser ubicada dentro de MAMP, normalmente se encuentra ubicado en **Applications/MAMP**, es necesario clonar el proyecto dentro de la carpeta **htdocs**.
+Para que se pueda acceder a la tienda, tienes que clonar este proyecto usando el siguiente comando en una terminal.
 
 ```
 git clone https://github.com/pagandocheck/prestashop-store.git
 ```
+
+Una vez clonado, debes mover la carpeta **prestashop** que se encuentra dentro de **prestashop-store**, a otra carpeta dentro de MAMP, exactamente en esta ubicación **Applications/ MAMP/ htdocs**.
+
 ### 3. Cargar dump de la base de datos con los productos de ejemplo
 
 Para importar la base de datos, en el menú superior de la página de inicio de MAMP seleccionar **Tools** y después **phpMyAdmin**.
@@ -36,7 +40,7 @@ En **phpMyAdmin** hacer clic en la pestaña **importar**.
 
 <img width="1260" alt="Captura de Pantalla 2021-08-11 a la(s) 22 04 42" src="https://user-images.githubusercontent.com/88348069/129136792-b3c1d270-d2c6-428d-b15e-b3e235576979.png">
 
-Aquí verá un formulario como este, donde podrá cargar el archivo **database / prestashop.sql** de nuestro proyecto, después dar clic en **aceptar**.
+Aquí verá un formulario como este, donde podrá cargar el archivo **database/ prestashop.sql** de nuestro proyecto, después dar clic en **aceptar**.
 
 <img width="569" alt="Captura de Pantalla 2021-08-11 a la(s) 22 07 40" src="https://user-images.githubusercontent.com/88348069/129136908-c491d3ab-5262-4c63-9b60-22da7a3d8b03.png">
 
