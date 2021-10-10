@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-13 14:52:27
+/* Smarty version 3.1.39, created on 2021-10-10 00:25:42
   from '/Applications/MAMP/htdocs/prestashop/modules/productcomments/productcomments_reviews.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6116cd7b7e1463_31241721',
+  'unifunc' => 'content_61627956beefc0_46979133',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'bc14a77ed083be484a8083647885a57ac8a31d98' => 
     array (
       0 => '/Applications/MAMP/htdocs/prestashop/modules/productcomments/productcomments_reviews.tpl',
-      1 => 1628872883,
+      1 => 1633841727,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_6116cd7b7e1463_31241721 (Smarty_Internal_Template $_smarty_tpl) {
+function content_61627956beefc0_46979133 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?> <div class="comments_note">	

@@ -16,6 +16,6 @@ if (!\class_exists(appProdProjectContainer::class, false)) {
 
 return new \ContainerPybdkui\appProdProjectContainer([
     'container.build_hash' => 'Pybdkui',
-    'container.build_id' => '024bf587',
-    'container.build_time' => 1628884330,
+    'container.build_id' => '78e2f886',
+    'container.build_time' => 1633843465,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerPybdkui');

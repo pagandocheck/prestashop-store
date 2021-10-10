@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-13 14:52:26
+/* Smarty version 3.1.39, created on 2021-10-10 00:25:05
   from '/Applications/MAMP/htdocs/prestashop/modules/productcomments/productcomments_reviews.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6116cd7ae25484_38523825',
+  'unifunc' => 'content_61627931872d87_85585490',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'bc14a77ed083be484a8083647885a57ac8a31d98' => 
     array (
       0 => '/Applications/MAMP/htdocs/prestashop/modules/productcomments/productcomments_reviews.tpl',
-      1 => 1628872883,
+      1 => 1633841727,
       2 => 'file',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6116cd7ae25484_38523825 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '15692350016116cd7ae0e3a2_19246314';
+function content_61627931872d87_85585490 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '3398245166162793183c2d6_56878892';
 ?>
  <div class="comments_note">	
 	<div class="star_content clearfix">
