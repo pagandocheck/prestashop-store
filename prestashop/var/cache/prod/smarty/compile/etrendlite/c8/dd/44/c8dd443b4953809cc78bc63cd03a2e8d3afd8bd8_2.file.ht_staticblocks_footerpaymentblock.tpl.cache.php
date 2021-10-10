@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-13 14:52:27
+/* Smarty version 3.1.39, created on 2021-10-10 00:25:06
   from '/Applications/MAMP/htdocs/prestashop/modules/ht_staticblocks/views/templates/hook/ht_staticblocks_footerpaymentblock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6116cd7ba35400_88708248',
+  'unifunc' => 'content_616279321fce90_90410029',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c8dd443b4953809cc78bc63cd03a2e8d3afd8bd8' => 
     array (
       0 => '/Applications/MAMP/htdocs/prestashop/modules/ht_staticblocks/views/templates/hook/ht_staticblocks_footerpaymentblock.tpl',
-      1 => 1628884313,
+      1 => 1633841727,
       2 => 'file',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6116cd7ba35400_88708248 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '6552554436116cd7ba2c840_45548163';
+function content_616279321fce90_90410029 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '1230687177616279321ec127_06014139';
 ?>
 
 <!-- Static Block module -->

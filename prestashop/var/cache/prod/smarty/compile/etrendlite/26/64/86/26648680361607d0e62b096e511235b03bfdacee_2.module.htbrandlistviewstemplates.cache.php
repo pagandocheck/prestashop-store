@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-13 14:52:27
+/* Smarty version 3.1.39, created on 2021-10-10 00:25:05
   from 'module:htbrandlistviewstemplates' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6116cd7b87f563_60199583',
+  'unifunc' => 'content_61627931d0d473_13399639',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '26648680361607d0e62b096e511235b03bfdacee' => 
     array (
       0 => 'module:htbrandlistviewstemplates',
-      1 => 1628884313,
+      1 => 1633841727,
       2 => 'module',
     ),
   ),
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:ht_brandlist/views/templates/_partials/".((string)$_smarty_tpl->tpl_vars[\'brand_display_type\']->value).".tpl' => 1,
   ),
 ),false)) {
-function content_6116cd7b87f563_60199583 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1100615936116cd7b875a25_81196763';
+function content_61627931d0d473_13399639 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '100131204861627931ce6993_28593350';
 ?>
 
 <div class="brand-section">
