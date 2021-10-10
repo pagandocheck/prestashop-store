@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-17 17:47:40
+/* Smarty version 3.1.39, created on 2021-10-10 00:25:05
   from 'module:htbrandlistviewstemplates' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_611c3c8cbb7d89_66426777',
+  'unifunc' => 'content_61627931d2a515_49177159',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '26648680361607d0e62b096e511235b03bfdacee' => 
     array (
       0 => 'module:htbrandlistviewstemplates',
-      1 => 1628884313,
+      1 => 1633841727,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_611c3c8cbb7d89_66426777 (Smarty_Internal_Template $_smarty_tpl) {
+function content_61627931d2a515_49177159 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>

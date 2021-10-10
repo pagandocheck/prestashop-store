@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-17 22:51:52
+/* Smarty version 3.1.39, created on 2021-10-10 00:25:42
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_611c83d89f3ab7_86380724',
+  'unifunc' => 'content_616279563e3d12_94073994',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6c2108a17c7103b6e203f4f0621d4645b56b0114' => 
     array (
       0 => 'module:psimagesliderviewstemplat',
-      1 => 1628884313,
+      1 => 1633841733,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_611c83d89f3ab7_86380724 (Smarty_Internal_Template $_smarty_tpl) {
+function content_616279563e3d12_94073994 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>

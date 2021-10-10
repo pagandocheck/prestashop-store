@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-08-13 14:52:21
+/* Smarty version 3.1.39, created on 2021-10-10 00:24:44
   from '/Applications/MAMP/htdocs/prestashop/admin651ib9qe0/themes/new-theme/template/components/layout/notifications_center.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6116cd75648083_18462937',
+  'unifunc' => 'content_6162791c86a9d1_38298973',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '289bac7a391cdb8c49a581f2166ce1b441626798' => 
     array (
       0 => '/Applications/MAMP/htdocs/prestashop/admin651ib9qe0/themes/new-theme/template/components/layout/notifications_center.tpl',
-      1 => 1628071972,
+      1 => 1633841723,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6116cd75648083_18462937 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6162791c86a9d1_38298973 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="notif" class="notification-center dropdown dropdown-clickable">
   <button class="btn notification js-notification dropdown-toggle" data-toggle="dropdown">
     <i class="material-icons">notifications_none</i>
